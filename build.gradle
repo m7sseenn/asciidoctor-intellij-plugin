@@ -133,7 +133,7 @@ dependencies {
   // explicit dependencies of markdown_to_asciidoc
   implementation 'org.pegdown:pegdown:1.6.0'
   implementation 'org.parboiled:parboiled-java:1.4.1'
-  implementation 'org.jsoup:jsoup:1.14.3'
+  implementation 'org.jsoup:jsoup:1.15.4'
   // end of markdown_to_asciidoc
 
   implementation 'org.apache.commons:commons-text:1.9'
